@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="UTF-8">
+  <title>hobbies</title>
+</head>
+  <!-- Student: Sydney Thompson -->
+  <!-- Course: ITMD-361-02 -->
+
+<body>
+    <header>
+      <nav>
+        <ul>
+          <li><a href="index.html">index.html</a></li>
+          <li><a href="resume.html">resume.html</a></li>
+          <li><a href="hobbies.html">hobbies.html</a></li>
+        </ul>
+      </nav>
+    </header>
+
+ <div>
+      <h1>Art</h1>
+      <p>I've been making art as long as I can remember, I like sketching on paper, digital art and animation.</p>
+      <ul>
+        <li>Materials I use: colored pencil, ink, markers, and an Ipad</li>
+        <li>Things I Draw: Anime, Animals, and character designs</li>
+        <li>Goals: practice anatomy and color theory</li>
+      </ul>
+      <img src="Painting.png" alt="Digital painting of two dogs on a beach">
+    </div>
+
+    <div>
+      <h2>Gaming</h2>
+      <p>I love video games, theyre how I spend most of my free time.</p>
+      <ul>
+        <li>Favorite Genres: simulation games, rpgs, choose your own adventure and shooters</li>
+        <li>Favorite Games: Overwatch, Animal Crossing, Stardew Valley</li>
+      </ul>
+      <img src="overwatch.png" alt="Overwatch logo and title">
+    </div>
+
+    <div>
+      <h2>Education</h2>
+      <h3>Illinois Institute of Technology, Chicago, IL</h3>
+      <p>B.S. in Information Technology and Management Junior</p>
+
+      <h3>Lincoln Way East High School, Frankfort, IL</h3>
+      <p>High School Diploma, 2023 — Honors Student, GPA: 4.1</p>
+    </div>
+
+
+
+</body>
+
+</html>
